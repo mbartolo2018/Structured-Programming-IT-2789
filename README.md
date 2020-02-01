@@ -1,13 +1,12 @@
 # Structured-Programming-IT-2789
 /************ IT 2789 **********************************************************************************
-	*****************************************************************************************************
-	** **
-	** This program was prepared as part of the requirements for IT 2789, Structured Programming. **
-	** **
-	** COURSE DESCRIPTION: **
-	** This is the second of a three course programming sequence. IT 2789, Structured Programming, builds on the **
-	** concepts learned in IT 2100, Programming Logic. Programming Logic introduces programming concepts without **
-	** any coding syntax. **
+
+	This program was prepared as part of the requirements for IT 2789, Structured Programming. **
+	
+	COURSE DESCRIPTION:
+	This is the second of a three course programming sequence. IT 2789, Structured Programming, builds on the **
+	concepts learned in IT 2100, Programming Logic. Programming Logic introduces programming concepts without **
+	any coding syntax.
 	** **
 	** Structured Programming expands the student’s knowledge of programming concepts in the context of a **
 	** programming language and its integrated development environment. It expands the student’s knowledge of **
